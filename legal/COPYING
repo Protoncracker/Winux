@@ -1,0 +1,218 @@
+ProtonLicense Agreement
+
+Version 1, 18 October 2023
+
+
+Preamble
+
+The ProtonLicense, hereafter referred to as this License, is inspired by the GNU General Public License Version 3 (GNU GPL v3) and includes many of its foundational terms and conditions.  It was originally authored by protoncracker. The primary modifications focus on commercial distribution and copyright aspects. This License serves as a free, copyleft license for software and other kinds of works. It is explicitly not applicable to Packages or Add-Ons designed to augment the functionalities of the primary Work unless otherwise specified by the creator of the individual Package or Add-On. It is not specific to any single project and can be used by anyone who wishes to incorporate its terms. Should you choose to modify the terms, you must clearly state in the preamble and title that your license is a modified version of the original ProtonLicense Agreement.
+
+Traditional licenses for most software aim to limit your freedom to share and modify works. This License, however, is designed to guarantee your freedom to share and adapt the program while maintaining it as free software for all its users.
+
+When referring to "free software" within the framework of this License, the emphasis is on freedom rather than price. This License grants you the freedom to distribute copies of free software (and generate revenue through advertisements or donations if you wish), to access the source code, and to modify the software or incorporate parts of it into new free programs.
+
+To safeguard the core ethos of providing a free tool to enhance user capabilities, this License includes specific clauses that prohibit the direct sale of the software. However, it permits the monetization of add-ons, features, or modules developed as extensions to the core software. These may be sold or monetized through other means, such as advertisements or donations. Consequently, you have certain responsibilities if you distribute or modify copies of the software or its add-ons: responsibilities that are in line with respecting the freedom of others and the foundational principles of this License.
+
+To safeguard the core ethos of providing a free tool to enhance user capabilities, this License includes specific clauses that prohibit the direct sale of the software. Consequently, you have certain responsibilities if you distribute or modify copies of the software: responsibilities that are in line with respecting the freedom of others and the foundational principles of this License.
+
+For example, if you distribute copies of a program governed by this License, whether gratis or for a fee through advertisements or donations, you must extend the same freedoms you received to the recipients. You must also ensure that they have access to the source code and are made aware of these terms.
+
+Developers who adopt this License protect your rights through two mechanisms: (1) by asserting copyright on the software, and (2) by offering you this License, which provides legal permission to copy, distribute, and/or modify the software.
+
+For the sake of both developers and users, this License explicitly states that there is no warranty for this free software. It mandates that modified versions be clearly marked as such, to avoid attributing any issues erroneously to authors of previous versions.
+
+Lastly, this License ensures that patents cannot be leveraged to make the software proprietary.
+
+The precise terms and conditions for copying, distribution, and modification follow. Any project that adopts this License should include an unaltered copy of the preamble.
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+
+"This License" refers to version 1 of the ProtonLicense, authored by protoncracker and inspired by the GNU General Public License Version 3 (GNU GPL v3).
+
+"Work" refers to any copyrightable creation, such as software, documentation, multimedia content, or other intellectual property, which is licensed under the terms of this License.
+
+"Packages" or "Add-ons" refer to distinct modules, features, or extensions designed to augment the functionalities of the primary Work. These Packages or Add-ons may be developed either by the original creator or third parties and may be monetized under certain conditions as stipulated by this License.
+
+"Commercial Use" entails the act of distributing, selling, or otherwise exploiting the Work or its Packages/Add-ons for direct financial profit. This excludes revenue generated through indirect means such as advertisements or donations.
+
+"Non-Commercial Use" refers to any distribution or utilization of the Work or its Packages/Add-ons without the intention of direct financial gain. This encompasses activities such as free distribution, use for academic or research purposes, or revenue generation through advertisements or donations.
+
+"Copyright" also means copyright-like laws that apply to other kinds of works, such as semiconductor masks.
+
+"The Program" refers to any copyrightable work licensed under this License. Each licensee is addressed as "you." "Licensees" and "recipients" may be individuals or organizations.
+
+To "modify" a work means to copy from or adapt all or part of the work in a fashion requiring copyright permission, other than making an exact copy. The resulting work is called a "modified version" of the earlier work or a work "based on" the earlier work.
+
+A "covered work" means either the unmodified Program or a work based on the Program.
+
+To "propagate" a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
+
+To "convey" a work means any kind of propagation that enables other parties to make or receive copies. Mere interaction with a user through a computer network, with no transfer of a copy, is not conveying.
+
+An interactive user interface displays "Appropriate Legal Notices" to the extent that it includes a convenient and prominently visible feature that (1) displays an appropriate copyright notice, and (2) tells the user that there is no warranty for the work (except to the extent that warranties are provided), that licensees may convey the work under this License through advertisements or donations, and how to view a copy of this License. If the interface presents a list of user commands or options, such as a menu, a prominent item in the list meets this criterion.
+
+1. Source Material and Code.
+
+"Source Material" for a Work means the original, unaltered, and editable files that are most suitable for making modifications, adaptations, or extensions to the Work. This could include but is not limited to source code for software, raw files for graphics, or uncompiled text for documentation.
+
+"Object Code" means any non-source form of a Work.
+
+"Standard Interface" means an interface that either is an official standard defined by a recognized standards body, or, in the case of interfaces specified for a particular programming language, one that is widely used among developers working in that language.
+
+"System Libraries" of an executable Work include anything, other than the Work as a whole, that (a) is included in the normal form of packaging a Major Component, but which is not part of that Major Component, and (b) serves only to enable the use of the Work with that Major Component, or to implement a Standard Interface for which an implementation is available to the public in source material form. A "Major Component," in this context, means a significant and essential element (kernel, window system, etc.) of the specific operating system (if any) on which the executable Work runs, or a compiler used to produce the Work, or an object code interpreter used to run it.
+
+"Corresponding Source" for a Work in object code form means all the source material needed to generate, install, and (for an executable Work) run the object code and to modify the Work, including scripts to control those activities. However, it does not include the Work's System Libraries, or general-purpose tools or generally available free programs that are used unmodified in performing those activities but which are not part of the Work.
+
+"Monetizable Source" specifically denotes the source material related to any Packages or Add-ons that may be monetized under this License. This could include but is not limited to source code files, design assets, or documentation that relate to such monetizable extensions.
+
+"Corresponding Source" need not include anything that users can regenerate automatically from other parts of the Corresponding Source.
+
+"Corresponding Source" for a Work in source material form is that same Work.
+
+2. Basic Permissions.
+
+All rights granted under this License are granted for the duration of copyright on the Work, and they are irrevocable as long as the specified conditions are met. This License explicitly affirms your unrestricted permission to run the unmodified Work, including any Packages or Add-ons that are directly monetized under the terms of this License. The output generated from executing a covered work falls under the jurisdiction of this License only if the output, given its content, qualifies as a covered work. This License acknowledges your rights of fair use or other equivalents, as provided by copyright law.
+
+You may create, run, and propagate covered works that you do not convey, without conditions, as long as your License remains active. You may convey covered works to others for the exclusive purpose of allowing them to make modifications for you or to provide you with the facilities for running those works. This is permitted as long as you comply with the terms of this License in conveying all materials for which you do not hold the copyright. Those who make or run the covered works must do so solely on your behalf, under your direction and control, and under terms that prohibit them from making copies of your copyrighted material outside their relationship with you.
+
+Conveying under any other circumstances is permitted solely under the conditions stated in subsequent sections of this License. Sublicensing is explicitly disallowed; the stipulations of Section 10 render it unnecessary.
+
+3. Safeguarding Users' Legal Freedoms from Anti-Circumvention Legislation.
+
+No Work, Package, or Add-on covered by this License shall be considered as part of an effective technological measure under any applicable law fulfilling obligations under Article 11 of the WIPO Copyright Treaty adopted on 20 December 1996, or analogous laws that prohibit or restrict circumvention of such measures.
+
+When you distribute or modify a Work, Package, or Add-on governed by this License, you relinquish any legal authority to prohibit circumvention of technological measures to the degree such circumvention is executed by exercising rights under this License concerning the Work, Package, or Add-on. Further, you disavow any intention to restrict the operation or adaptation of the Work, Package, or Add-on as a method of enforcing, against the users of the Work, Package, or Add-on, your or third parties' legal rights to forbid circumvention of technological measures.
+
+4. Conveying Unaltered Copies
+
+You may convey unaltered copies of the Work's source material as you receive it, in any medium, provided that you conspicuously and appropriately publish on each copy an appropriate copyright notice; keep intact all notices stating that this License, authored by protoncracker, and any non-permissive terms added in accord with later sections apply to the source material; keep intact all notices of the absence of any warranty; and give all recipients a copy of this License along with the Work.
+
+You may charge any price or no price for each copy that you convey, and you may offer support or warranty protection for a fee. However, the direct sale of the primary Work itself is prohibited, in alignment with the core ethos outlined in the Preamble. Revenue may be generated through indirect means such as advertisements or donations. Monetization of Packages or Add-ons is permitted under specific conditions as stipulated by this License.
+
+5. Conveying Modified Versions of the Work.
+
+You may convey a work based on the Work, or the modifications to produce it from the Work, in the form of source material under the terms of section 4, provided that you also meet all the following conditions:
+
+a) The work must carry prominent notices stating that you modified it, and providing a relevant date.
+
+b) The work must carry prominent notices stating that it is released under this ProtonLicense and any conditions added under section 7. This requirement modifies the requirement in section 4 to "keep intact all notices."
+
+c) You must license the entire work, as a whole, under this ProtonLicense to anyone who comes into possession of a copy. This includes both the primary Work and any Packages or Add-ons that are part of it. This ProtonLicense will therefore apply, along with any applicable section 7 additional terms, to the whole of the work, and all its parts, irrespective of how they are packaged.
+
+d) If the work has interactive user interfaces, each must display Appropriate Legal Notices; however, if the original Work has interactive interfaces that do not display Appropriate Legal Notices, your derivative work need not make them do so.
+
+A compilation of a covered work with other separate and independent creations, which are not by their nature extensions of the covered work and which are not combined with it to form a larger program, is referred to as an "aggregate." If the compilation and its resulting copyright are not used to limit the access or legal rights of the compilation's users beyond what the individual works permit, the ProtonLicense does not apply to the other parts of the aggregate.
+
+6. Conveying Non-Source Material and Code.
+
+You may convey a covered Work in object code or non-source material form under the terms of sections 4 and 5, provided that you also convey the machine-readable Corresponding Source under the terms of this License, in one of these ways:
+
+a) Convey the object code or non-source material in, or embodied in, a physical or digital product, accompanied by the Corresponding Source fixed on a durable physical or digital medium customarily used for such interchange.
+
+b) Convey the object code or non-source material in, or embodied in, a physical or digital product, accompanied by a written offer, valid for at least three years and valid for as long as you offer spare parts or customer support for that product model, to give anyone who possesses the object code or non-source material either (1) a copy of the Corresponding Source for all the Work in the product that is covered by this License, on a durable physical or digital medium customarily used for such interchange, for a price no more than your reasonable cost of physically performing this conveying of source, or (2) access to copy the Corresponding Source from a network server at no charge.
+
+c) Convey individual copies of the object code or non-source material with a copy of the written offer to provide the Corresponding Source. This alternative is allowed only occasionally and noncommercially, and only if you received the object code or non-source material with such an offer, in accord with subsection 6b.
+
+d) Convey the object code or non-source material by offering access from a designated place (gratis or for a charge), and offer equivalent access to the Corresponding Source in the same way through the same place at no further charge. You need not require recipients to copy the Corresponding Source along with the object code or non-source material.
+
+e) Convey the object code or non-source material using peer-to-peer transmission, provided you inform other peers where the object code and Corresponding Source of the Work are being offered to the general public at no charge under subsection 6d.
+
+"Monetizable Source" specifically denotes the source material related to any Packages or Add-ons that may be monetized under this License. This could include but is not limited to source code files, design assets, or documentation that relate to such monetizable extensions.
+
+7. Additional Terms and Conditions.
+
+"Additional Permissions" refer to terms that either supplement or modify the conditions of this License. These permissions, valid under applicable law, may be applied to the entire Work, Packages, or Add-Ons. They are treated as if included in this License, affecting only the portions of the Work, Packages, or Add-Ons to which they explicitly apply.
+
+When you convey a copy of a covered work, you may, at your discretion, remove any additional permissions from that copy or from any of its components. You may also place additional permissions on material that you add to a covered work, for which you possess or can provide appropriate copyright permission.
+
+Regardless of any other provisions in this License, for material you add to a covered work, you may supplement the terms of this License with the following:
+
+  a) Disclaiming warranty or altering liability contrary to the terms defined in later sections of this License; or
+
+  b) Preserving specified reasonable legal notices or attributions; or
+  
+  c) Prohibiting misrepresentation of the origin of that material, or requiring that modified versions be reasonably marked as different from the original; or
+
+  d) Restricting the use of names of licensors or contributors for publicity purposes; or
+
+  e) Refusing to grant rights under trademark law for specific trade names, trademarks, or service marks; or
+
+  f) Mandating indemnification of licensors and contributors by anyone who conveys the material with contractual liability assumptions.
+
+Any additional terms you introduce must be clearly stated in the relevant source files or indicated in a notice within those files. These terms may be specified in a separately written license or as explicit exceptions to this License.
+
+8. Termination.
+
+You may not propagate, distribute, or modify a covered Work, including any Packages or Add-ons, except as expressly provided under this License. Any attempt otherwise to propagate, distribute, or modify it is void, and will automatically terminate your rights under this License (including any patent licenses granted under the third paragraph of section 11).
+
+However, if you cease all violation of this License, then your license from a particular copyright holder, including the original author protoncracker, is reinstated (a) provisionally, unless and until the copyright holder explicitly and finally terminates your license, and (b) permanently, if the copyright holder fails to notify you of the violation by some reasonable means prior to 60 days after the cessation.
+
+Moreover, your license from a particular copyright holder is reinstated permanently if the copyright holder notifies you of the violation by some reasonable means, this is the first time you have received notice of violation of this License (for any Work) from that copyright holder, and you cure the violation prior to 30 days after your receipt of the notice.
+
+Termination of your rights under this section does not terminate the licenses of parties who have received copies or rights from you under this License, be it for commercial or non-commercial use. If your rights have been terminated and not permanently reinstated, you do not qualify to receive new licenses for the same material under section 10.
+
+9. Acceptance Not Required for Possessing Copies.
+
+You are not required to accept this License to receive, run, or use a copy of the Work or its Packages/Add-ons. Incidental distribution of a covered work, occurring solely as a result of using peer-to-peer transmission to receive a copy, does not necessitate acceptance of this License. However, nothing other than this License grants you permission to propagate, modify, or monetize any covered work or its monetizable extensions. Engaging in these activities without accepting this License constitutes copyright infringement. Therefore, by modifying, propagating, or monetizing a covered work or its monetizable extensions, you signify your acceptance of this License to undertake these actions.
+
+10. Automatic Licensing of Downstream Recipients.
+
+Each time you convey a covered Work, the recipient automatically receives a license from the original licensors to run, modify, and propagate that Work, subject to this License. This also applies to any Packages or Add-ons that may be present, as defined in this License. You are not responsible for enforcing compliance by third parties with this License.
+
+An "entity transaction" is a transaction transferring control of an organization, or substantially all assets of one, or subdividing an organization, or merging organizations.  If propagation of a covered Work results from an entity transaction, each party to that transaction who receives a copy of the Work also receives whatever licenses to the Work the party's predecessor in interest had or could give under the previous paragraph, plus a right to possession of the Corresponding Source and Monetizable Source of the Work from the predecessor in interest, if the predecessor has it or can get it with reasonable efforts.
+
+You may not impose any further restrictions on the exercise of the rights granted or affirmed under this License, except those specifically allowed as per the terms of monetization of Packages or Add-ons as stipulated in this License. For example, you may not impose a license fee, royalty, or other direct charge for the exercise of rights granted under this License, and you may not initiate litigation alleging that any patent claim is infringed by making, using, selling, offering for sale, or importing the Work or any portion of it.
+
+11. Patents.
+
+A "Contributor" is a copyright holder who authorizes use, under this License, of the Work or any Packages or Add-ons on which the Work is based. The work thus licensed is called the Contributor's "Contributor Version."
+
+A Contributor's "Essential Patent Claims" are all patent claims owned or controlled by the Contributor, whether already acquired or hereafter acquired, that would be infringed by some manner, permitted by this License, of making, using, or otherwise exploiting its Contributor Version. This does not include claims that would be infringed only as a consequence of further modification of the Contributor Version.
+
+The original author of the Work retains all rights to sell, distribute for profit, or otherwise commercially exploit the Work. Contributors other than the original author are prohibited from directly selling or otherwise commercially exploiting the Work, its Packages, or its Add-ons. Contributors may only monetize their contributions through indirect means, such as donations.
+
+Each Contributor grants you a non-exclusive, worldwide, royalty-free patent license under the Contributor's Essential Patent Claims to make, use, import, and otherwise run and propagate the contents of its Contributor Version, including any Packages or Add-ons, in accordance with the commercial restrictions stated above.
+
+If you convey a Covered Work, knowingly relying on a Patent License, and the Corresponding Source of the work is not available for anyone to copy, free of charge and under the terms of this License, you must either (1) make the Corresponding Source available, or (2) forgo the benefits of the Patent License for this particular work, or (3) extend the Patent License to downstream recipients in a manner consistent with this License.
+
+A Patent License is "Discriminatory" if it does not include within its scope, prohibits the exercise of, or is conditioned on the non-exercise of one or more of the rights that are specifically granted under this License. You may not convey a Covered Work if you are a party to an agreement that results in a Discriminatory Patent License.
+
+Nothing in this License shall be construed as excluding or limiting any implied license or other defenses to infringement that may otherwise be available to you under applicable patent law.
+
+12. No Compromise on Freedom Constraints.
+
+If you are subjected to conditions, be it through legal mandates, agreements, or other circumstances, that conflict with the terms of this License, these conflicting conditions do not exempt you from your obligations under this License. If you find it impossible to distribute a Work, Package, or Add-On in a manner that satisfies both your obligations under this License and any other conflicting obligations, then you are prohibited from distributing it in any form. For instance, if you engage in agreements that require you to levy royalties from those to whom you distribute the Work, the only way to reconcile this with the terms of this License would be to abstain from any distribution of the Work, Package, or Add-On.
+
+13. Remote Network Interaction; Use with the ProtonLicense.
+
+Notwithstanding any other provision of this License, if you modify the Work, your modified version must prominently offer all users interacting with it remotely through a computer network (if your version supports such interaction) an opportunity to receive the Corresponding Source of your version. This access to the Corresponding Source must be provided at no charge and facilitated through a network server via standard or customary means.
+
+If you modify the Work and users can interact with your modified version over a network, you must provide them a way to obtain the source code of your modified version for free. This should also include the source code of any paid features or add-ons being used.
+
+14. Revised Versions of this License.
+
+The original author of the ProtonLicense, protoncracker, may publish revised and/or new versions of the ProtonLicense from time to time. Each version will be given a distinguishing version number and date.
+
+If a Work specifies a "permanent" version of the ProtonLicense for a particular version or release date, then the terms of that "permanent" version shall apply exclusively to that specific version or release date of the Work, regardless of any subsequent, newer versions of the ProtonLicense. For newer versions or release dates of the Work, the author may specify a different version of the ProtonLicense at will.
+
+If a Work specifies that a certain numbered version of the ProtonLicense "or any later version" applies to it, you have the option of following the terms and conditions either of that numbered version or of any later version published by protoncracker. If the Work does not specify a version number of the ProtonLicense, you may choose the latest version ever published by protoncracker.
+
+It is the responsibility of the licensee to be aware of any updates to the ProtonLicense. The licensee should periodically review the latest version of the License and, where applicable, will be notified of any changes via mechanisms within the software or Work itself.
+
+Later license versions may give you additional or different permissions. However, no additional obligations are imposed on any author or copyright holder as a result of your choosing to follow a later version, unless specifically stated in the updated version.
+
+15. Disclaimer of Warranty for the Work.
+
+THERE IS NO WARRANTY FOR THE WORK, TO THE EXTENT PERMITTED BY APPLICABLE LAW. UNLESS OTHERWISE EXPLICITLY INDICATED BY THE COPYRIGHT HOLDER, THE WORK IS PROVIDED "AS IS" WITHOUT ANY FORM OF WARRANTY, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE WORK IS WITH YOU. SHOULD THE WORK PROVE DEFECTIVE, YOU ASSUME ALL COSTS FOR NECESSARY SERVICING, REPAIR, OR CORRECTION.
+
+16. Limitation of Liability for the Work.
+
+IN NO EVENT, UNLESS MANDATED BY APPLICABLE LAW OR AGREED UPON IN WRITING, SHALL ANY COPYRIGHT HOLDER OR ANY OTHER PARTY WHO MODIFIES AND/OR DISTRIBUTES THE WORK UNDER THIS LICENSE, BE LIABLE FOR ANY DAMAGES, INCLUDING BUT NOT LIMITED TO GENERAL, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE WORK (INCLUDING, BUT NOT LIMITED TO, DATA LOSS OR CORRUPTION, OR DAMAGES SUSTAINED BY YOU OR THIRD PARTIES, OR A FAILURE OF THE WORK TO OPERATE WITH ANY OTHER WORKS), EVEN IF SUCH HOLDER OR OTHER PARTY HAS BEEN NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+17. Interpretation of Sections 15 and 16 for the Work.
+
+IF THE DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY FOR THE WORK CANNOT BE GIVEN EFFECT UNDER LOCAL LAW, REVIEWING COURTS SHOULD APPLY THE LEGAL FRAMEWORK THAT MOST CLOSELY APPROXIMATES AN ABSOLUTE WAIVER OF ALL CIVIL LIABILITY IN RELATION TO THE WORK, UNLESS A WARRANTY OR ASSUMPTION OF LIABILITY ACCOMPANIES A COPY OF THE WORK IN EXCHANGE FOR A FEE.
+
+END OF TERMS AND SERVICES
