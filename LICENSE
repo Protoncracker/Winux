@@ -1,0 +1,38 @@
+Winux Project License Agreement
+
+Introduction
+
+Winux is an open-source endeavor designed to empower terminal users with a simplified command-line interface deepening the operational system control and other features. This document outlines the legal provisions and conditions governing the Winux project.
+
+Copyright and License
+
+Copyright © 2021-2023 Winux Project. Licensed under ProtonLicense Version 1 (PLv1). Refer to the COPYING file for the full text of the license. Third-party code and libraries, where utilized, are subject to their respective licenses.
+
+Disclaimers of Liability
+
+The Winux project bears no responsibility for any losses or damages arising from the usage of utilities in the Packages directory, which may be derived from other systems or independent. Such tools are included solely to facilitate user experience and system interoperability.
+
+Legal Remedies
+
+For copyright violations or related concerns, direct inquiries to the project administrator at tryme.freefall963@passinbox.com. Action will be taken to address valid claims within approximately 72 hours.
+
+Security Measures and Vulnerabilities
+
+Security issues should be reported to tryme.freefall963@passinbox.com or logged as an issue on the GitHub repository. While we strive for robust security measures, we do not guarantee fault-free operation. Rewards for substantial reports are discretionary and may include compensation or code customization.
+
+Third-Party Acknowledgments
+
+Winux is independent of any third-party programs or websites unless explicitly stated. Any sources utilized are documented in the FROM file, with affiliated sources duly marked as Verified.
+
+Warranty
+
+THIS SOFTWARE IS OFFERED "AS IS," WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. For further details, consult the COPYING file.
+Acquiring This Software
+
+The official Winux repository is accessible at GitHub. Instances of this software sold for a fee are likely unauthorized versions. The only permissible paid feature is the Learn Hacking service.
+
+Additional Resources
+
+For an exhaustive outline of your rights under the ProtonLicense, consult the COPYING file accompanying this program or visit ProtonLicense.
+
+You can see more about the project and all implications by navigating on the official GitHub: https://www.github.com/Protoncracker/Winux.
